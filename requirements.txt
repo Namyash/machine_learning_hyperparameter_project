@@ -6,5 +6,10 @@ seaborn==0.13.2
 scikit-learn==1.5.1
 imbalanced-learn==0.12.3
 plotly==5.22.0
-ydata-profiling==4.8.3
 setuptools==70.3.0
+
+# explicitly install htmlmin from GitHub source
+git+https://github.com/mankyd/htmlmin@0.1.12#egg=htmlmin
+
+# compatible profiling tool version
+ydata-profiling==4.6.4
