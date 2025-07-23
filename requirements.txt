@@ -1,5 +1,5 @@
 streamlit==1.38.0
-pandas==2.2.2
+pandas==2.1.4
 numpy==1.26.4
 matplotlib==3.9.2
 seaborn==0.13.2
@@ -8,3 +8,4 @@ imbalanced-learn==0.12.3
 plotly==5.22.0
 ydata-profiling==4.8.3
 setuptools==70.3.0
+
